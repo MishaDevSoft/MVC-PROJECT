@@ -160,8 +160,3 @@ project/
 - Raporty aktywności
 - Zestawienia przeterminowań
 
-## Autorzy
-[Twoje imię/nazwa zespołu]
-
-## Licencja
-[Informacje o licencji] 
