@@ -1,0 +1,6 @@
+[10-Jun-2025 00:56:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method WypozyczeniaModel::pobierzAktywneWypozyczenia() in C:\xampp\htdocs\project\app\controllers\WypozyczeniaController.php:16
+Stack trace:
+#0 C:\xampp\htdocs\project\app\core\Router.php(45): WypozyczeniaController->index()
+#1 C:\xampp\htdocs\project\public\index.php(41): Router->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\project\app\controllers\WypozyczeniaController.php on line 16
